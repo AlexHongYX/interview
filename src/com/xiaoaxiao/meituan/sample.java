@@ -32,4 +32,7 @@ public class sample {
             System.out.print(result[i] + " ");
         }
     }
+
+
 }
+
